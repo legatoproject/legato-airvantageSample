@@ -8,5 +8,5 @@ To build this application...
 - while still in the legato-af directory, run bin/legs (legato shell)
 - then cd to the airvantageDemo directory and run 'make'
 
-Instructions for how to use this appliucation and work with AirVantage are included
+Instructions for how to use this application and work with AirVantage are included
 in the legato doxygen.
