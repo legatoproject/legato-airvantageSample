@@ -9,4 +9,4 @@ To build this application...
 - then cd to the airvantageDemo directory and run 'make'
 
 Instructions for how to use this application and work with AirVantage are included
-in the legato doxygen.
+in the legato doxygen at http://www.legato.io/legato-af/14_1/connecting_air_vantage.html
